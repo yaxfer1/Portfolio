@@ -204,7 +204,7 @@ export const experiences: Experience[] = [
         },
         highlights: [
             { es: "Diseñé y desarrollé desde cero una aplicación web interna (Astro + PostgreSQL + Vue) para gestión de inventario y planificación del laboratorio que mejoró significativamente la productividad del equipo", en: "Designed and built from scratch an internal web app (Astro + PostgreSQL + Vue) for inventory management and lab scheduling that significantly improved team productivity" },
-            { es: "Desarrollé APIs REST con Flask y SQLAlchemy bajo requisitos de empresas externas con extensas listas de especificaciones de comportamiento", en: "Built REST APIs with Flask and SQLAlchemy under external client requirements with extensive behavior specification lists" },
+            { es: "Desarrollé APIs REST con Flask bajo requisitos de empresas externas con extensas listas de especificaciones de comportamiento", en: "Built REST APIs with Flask under external client requirements with extensive behavior specification lists" },
             { es: "Diseñé un pipeline automatizado de internacionalización (i18n) para gestionar traducciones de forma transparente", en: "Designed an automated internationalization (i18n) pipeline to manage translations seamlessly" },
             { es: "Gestioné el ciclo de vida completo: desde requisitos hasta despliegue con Docker en servidores y SoMs propios", en: "Managed the full lifecycle: from requirements to deployment with Docker on self-hosted servers and SoMs" },
         ],
