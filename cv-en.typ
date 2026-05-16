@@ -94,7 +94,7 @@ I'm passionate about high-impact projects, space exploration, and automation. I 
 Software development for the renewable energy sector: HMI interfaces for high-power solar inverters on embedded Linux platforms (SoM), and internal web applications for company process digitalization. I work with Python, Vue, Astro, Flask, SQL, Docker, and industrial protocols (Modbus, CAN, SCADA).
 #list(
   [Designed and built from scratch an internal web app (Astro + PostgreSQL + Vue) for inventory management and lab scheduling that significantly improved team productivity],
-  [Built REST APIs with Flask and SQLAlchemy under external client requirements with extensive behavior specification lists],
+  [Built REST APIs with Flask under external client requirements with extensive behavior specification lists],
   [Designed an automated internationalization (i18n) pipeline to manage translations seamlessly],
   [Managed the full lifecycle: from requirements to deployment with Docker on self-hosted servers and SoMs]
 )
